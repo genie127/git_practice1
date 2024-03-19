@@ -1,5 +1,5 @@
-body{background: #e4f7fd; padding-bottom: 80px;}
-
+/* body{background: #e4f7fd; padding-bottom: 80px;} */
+/* 0318 내맘대로 주석 달아봄 */
 header{padding: 30px 0;}
 h1{text-align: center; font-size:24px; font-weight:600}
 main{background: #edf9ff; max-width:500px; margin: 0 auto; box-shadow: 1px 1px 5px rgba(0,0,0,.3); border-radius:5px; padding: 30px 15px;}
